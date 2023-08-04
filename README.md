@@ -1,6 +1,6 @@
 <h1>✨⁂Welcome⁂✨</h1>
 
-<h2>You have reached the GitHub home of <a href="https://www.brettaustineastman.com/" target="_blank">Brett Austin Eastman.</a></h2>
+<h3>You have reached the GitHub home of <a href="https://www.brettaustineastman.com/" target="_blank">Brett Austin Eastman.</a></h2>
 I am a software engineer with a passion for creating compelling web experiences, a musician and composer, and I live in San Francisco.<br /><br />
 
 ## Languages, Libraries and Frameworks
@@ -28,7 +28,6 @@ I am a software engineer with a passion for creating compelling web experiences,
 ![Static Badge](https://img.shields.io/badge/Figma-C27400?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Tailwind-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/styled--components-C27400?style=for-the-badge)
-
 
 ## Connect with me
 <div align="left">
