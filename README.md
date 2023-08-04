@@ -4,30 +4,30 @@
 I am a software engineer with a passion for creating compelling web experiences, a musician and composer, and I live in San Francisco.<br /><br />
 
 ## Languages, Libraries and Frameworks
-![Static Badge](https://img.shields.io/badge/Javascript-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Javascript-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/NodeJS-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/React-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/React-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/HTML-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/CSS-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CSS-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/SQL-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/MongoDB-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Express.js-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Express.js-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Next.js-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Next.js-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Svelte-141414?style=for-the-badge)
 
 ## Developer Tools
 ![Static Badge](https://img.shields.io/badge/GitHub-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/GitLab-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/GitLab-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Amazon_AWS-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Jest-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/mocha.js-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/mocha.js-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/chai.js-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Figma-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Figma-141414?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Tailwind-141414?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/styled--components-C27400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/styled--components-141414?style=for-the-badge)
 
 ## Connect with me
 <div align="left">
