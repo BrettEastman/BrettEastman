@@ -1,10 +1,10 @@
 <h1>✨⁂Welcome⁂✨</h1>
 
-<h3>You have reached the GitHub home of <a href="https://www.brettaustineastman.com/" target="_blank">Brett Austin Eastman.</a></h2>
+<h3>You have reached the GitHub home of <a href="https://www.bretteastman.dev/" target="_blank">Brett Austin Eastman.</a></h2>
 I am a software engineer with a passion for creating compelling web experiences, a musician and composer, and I live in San Francisco.<br /><br />
 
 ## Languages, Libraries and Frameworks
-<p align="left">  
+<div align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/Javascript-141414?style=for-the-badge" height="28" alt="Javascript logo" />
   </a>
@@ -41,10 +41,10 @@ I am a software engineer with a passion for creating compelling web experiences,
   <a href="https://svelte.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Svelte-141414?style=for-the-badge" height="28" alt="Svelte logo" />
   </a>
-</p>
+</div>
 
 ## Developer Tools
-<p align="left">
+<div align="left">
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge" height="28" alt="GitHub logo" />
   </a>
@@ -75,7 +75,7 @@ I am a software engineer with a passion for creating compelling web experiences,
   <a href="https://styled-components.com/" target="_blank">
     <img src="https://img.shields.io/badge/styled--components-141414?style=for-the-badge" height="28" alt="styled-components logo" />
   </a>
-</p>
+</div>
 
 ## Connect with me
 <div align="left">
