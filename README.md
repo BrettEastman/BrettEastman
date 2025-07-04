@@ -8,6 +8,7 @@ a software engineer with a passion for creating compelling web experiences, a mu
   <li>👨🏼‍🏫 <a href="https://www.bretteastmanstudio.com/" target="_blank">Brett Eastman Studio Music Teaching Archives</a></li>
   <li>🎷 <a href="https://lafsmwtheoryexam.com/" target="_blank">Lafayette Summer Jazz Workshop</a></li>
   <li>📠 <a href="https://www.kenworthymachine.net/" target="_blank">Kenworthy Machine</a></li>
+  <li>🎶 <a href="https://www.heliamusiccollective.com/" target="_blank">Helia Music Collective</a></li>
   <li>🗳️ <a href="https://ranked-choice-three.vercel.app/" target="_blank">Ranked Choice Voting application</a></li>
 </ul> 
 
